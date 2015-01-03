@@ -19,7 +19,7 @@
     <tags>Frontier Elite Dangerous EdStarCoordinator Light Year Distance Star System Coordinate</tags>
   </metadata>
   <files>
-    <file src="EdStarCoordinatorNet\License.txt" target="content" />
+    <file src="License.txt" target="content" />
     <file src="EdStarCoordinatorNet\Bin\Release\EdStarCoordinatorNet.dll" target="lib\net40" />
     <file src="EdStarCoordinatorNet\Bin\Release\EdStarCoordinatorNet.xml" target="lib\net40" />
   </files>
