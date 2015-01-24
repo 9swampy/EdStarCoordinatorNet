@@ -212,7 +212,6 @@
       gsReq.Data.Filter = new Filter();
       gsReq.Data.Test = true;
       gsReq.Data.Filter.CoordCube = new List<List<int>>() { new List<int>() { -4, 4 }, new List<int>() { -4, 4 }, new List<int>() { -4, 4 } };
-      //gsReq.Data.Filter.Date = "2010-09-18 12:34:56";
       gsReq.Data.Filter.Date = new DateTime(2010, 01, 01, 12, 00, 00);
       Client client = new Client();
 

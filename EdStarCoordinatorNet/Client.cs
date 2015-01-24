@@ -7,7 +7,7 @@
   /// <summary>
   /// A client providing access to the EdStarCoordinator POST/JSON community web service.
   /// </summary>
-  public class Client
+  public class Client : IClient
   {
     private const string BaseUrl = @"http://edstarcoordinator.com/api.asmx";
 
