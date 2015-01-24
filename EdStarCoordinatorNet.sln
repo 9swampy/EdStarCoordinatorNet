@@ -7,6 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdStarCoordinatorNet.CiTest
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdStarCoordinatorNet", "EdStarCoordinatorNet\EdStarCoordinatorNet.csproj", "{226DB24F-4CF2-47A2-A71D-2A7EE7265071}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9D3EBB8D-B4E5-4369-8277-696A37FDBD9C}"
+	ProjectSection(SolutionItems) = preProject
+		EdStarCoordinatorNet.nuspec = EdStarCoordinatorNet.nuspec
+		NextVersion.txt = NextVersion.txt
+		README.md = README.md
+		Settings.StyleCop = Settings.StyleCop
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
