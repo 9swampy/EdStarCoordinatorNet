@@ -45,6 +45,7 @@
     <Compile Include="Distance.cs" />
     <Compile Include="DistancesData.cs" />
     <Compile Include="GetDistancesResponse.cs" />
+    <Compile Include="IClient.cs" />
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
